@@ -1,0 +1,17 @@
+.content{
+    padding: 0 1.8rem;
+}
+
+.content--info{
+    padding: .7rem 0;
+}
+
+.content--info h3{
+    font-size: 1.6rem;
+    font-weight: 700;
+    margin: .3rem 0;
+}
+
+.content--info p{
+    font-size: 1rem;
+}

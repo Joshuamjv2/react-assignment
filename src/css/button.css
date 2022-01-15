@@ -1,0 +1,36 @@
+.content--buttons{
+    display: flex;
+    justify-content: space-between;
+    padding: 1.5rem 0;
+
+}
+
+.content--buttons{
+    display: flex;
+    /* background-color: #faf2f2; */
+    /* color: black; */
+}
+
+.content--buttons_button{
+    display: flex;
+    align-items: center;
+    width: 10rem;
+    justify-content: center;
+    font-size: 1.3rem;
+    border-radius: .5rem;
+    padding: .4rem .7rem;
+}
+
+
+.content--buttons_button .icon{
+    padding-right: .5rem;
+}
+
+.content--buttons_button-dark{
+    background-color: #0072b1;
+}
+
+.content--buttons_button-light{
+    background-color: #faf2f2;
+    color: #2d2f3f;
+}

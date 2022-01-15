@@ -1,0 +1,29 @@
+.profile img{
+    width: 100%;
+    position: relative;
+    border-radius: .5rem .5rem 0 0;
+}
+
+.profile--details {
+    padding: 0 1.5rem;
+    line-height: 1rem;
+    text-align: center;
+    margin-top: .8rem;
+}
+
+.profile--details_name{
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: .8rem;
+}
+
+.profile--details_title{
+    font-size: 1.2rem;
+    color: #ff703c;
+    padding-bottom: 1rem;
+}
+
+.profile--details_phrase{
+    font-size: 1rem;
+}
+
